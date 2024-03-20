@@ -1,0 +1,4 @@
+Activity    time usage
+run.py - automatic-time-tracking-desktop-client - Visual Studio Code|0:00:04.031196
+sauvegarde.txt - automatic-time-tracking-desktop-client - Visual Studio Code|0:00:08.103247
+Totale_sauvegarde.txt - automatic-time-tracking-desktop-client - Visual Studio Code|0:00:03.071439
