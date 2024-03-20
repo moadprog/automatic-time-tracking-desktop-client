@@ -1,2 +1,1 @@
 Activity    time usage
- Visual Studio Code | 0:00:15.205882
